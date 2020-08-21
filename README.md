@@ -6,7 +6,7 @@ Simple package for times when you are too lazy to remember how util.inspect work
 
 ### Install
 
-`yarn add ratatoskr`
+`yarn add ratatoskr-log`
 
 ### Usage
 
