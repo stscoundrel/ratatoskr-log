@@ -14,7 +14,7 @@ Ratatoskr givers versions of common log functions, that do not have limits for d
 
 
 ```javascript
-const { log } = require('ratatoskr')
+const { log } = require('ratatoskr-log')
 
 const massiveObject = { // Deep hierarchy }
 
@@ -25,7 +25,7 @@ log(massiveObject)
 Ratatoskr also gives common variants of log:
 
 ```javascript
-const { debug, error, info, warn, table } = require('ratatoskr')
+const { debug, error, info, warn, table } = require('ratatoskr-log')
 
 const massiveObject = { // Deep hierarchy }
 
