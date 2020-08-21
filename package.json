@@ -1,9 +1,9 @@
 {
-  "name": "ratatoskr",
+  "name": "ratatoskr-log",
   "version": "0.9.0",
   "description": "Shorthand to avoid [object Object] log in Node.js",
   "main": "index.js",
-  "repository": "https://github.com/stscoundrel/ratatoskr.git",
+  "repository": "https://github.com/stscoundrel/ratatoskr-log.git",
   "author": "stscoundrel <silvennoinen.sampo@gmail.com>",
   "license": "MIT",
   "private": false,
